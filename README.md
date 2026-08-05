@@ -2,7 +2,7 @@
 The goal of this project is to predict the ticket price for the flight using the Linear Regression Algorithm.
 
 ## Tasks
-Hypothesis-based EDA:
+- Hypothesis-based EDA:
 
 Does the price vary with Airlines for the same source_city to destination_city?
 
